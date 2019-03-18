@@ -34,7 +34,7 @@ _Note : Sorry for not giving some example data due to the ownership. I'll just s
 ![Data](./images/data.PNG)
 &nbsp;
 ### Results  
-These results show that we may rate the stars for hotels!  
+These results show that the probability of prediction, which means that we may rate the stars for hotels in person!  
 * **Result from Paris data**  
 ![Paris](./images/paris_result.png)
 &nbsp;  
