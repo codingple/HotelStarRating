@@ -19,15 +19,27 @@ _Note : Sorry for giving some example data due to the ownership. I'll just show 
   
 ### Data
 #### Paris, France  
-- Number of Hotels : 1121  
-- The range of price : 9,688 to 1,082,310  
-- The range of estimation : 3.5 to 9.5
-- The range of stars : 1 to 5  
+- Number of Hotels : **1121**  
+- The range of price : **9,688** to **1,082,310**  
+- The range of estimation : **3.5** to **9.5**  
+- The range of stars : **1** to **5**  
   
 #### Rome, Italy  
-- Number of Hotels : 1175  
-- The range of price : 10,409 to 649,893  
-- The range of estimation : 4.7 to 9.9
-- The range of stars : 1 to 5  
+- Number of Hotels : **1175**  
+- The range of price : **10,409** to **649,893**  
+- The range of estimation : **4.7** to **9.9**  
+- The range of stars : **1** to **5**  
   
 * **Arranged Data**  
+![Data](./images/data.PNG)
+&nbsp;
+### Results  
+* **Result from Paris data**  
+![Paris](./images/paris_result.png)
+&nbsp;  
+* **Result from Rome data**  
+![Rome](./images/rome_result.png)
+&nbsp;
+* **Result from merged data**  
+![Both](./images/merged_result.png)
+&nbsp;  
