@@ -34,6 +34,7 @@ _Note : Sorry for giving some example data due to the ownership. I'll just show 
 ![Data](./images/data.PNG)
 &nbsp;
 ### Results  
+These results show that we may rate the stars for hotels!  
 * **Result from Paris data**  
 ![Paris](./images/paris_result.png)
 &nbsp;  
