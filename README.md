@@ -15,7 +15,7 @@ That information includes customer's estimation, price, and star rating of hotel
 Finally, the information is devided into training data and test data, 
 and used by the _hotel_knn.R_ for predicting the stars based on the other features.  
   
-_Note : Sorry for giving some example data due to the ownership. I'll just show you the result_  
+_Note : Sorry for not giving some example data due to the ownership. I'll just show you the result_  
   
 ### Data
 #### Paris, France  
