@@ -1,5 +1,5 @@
 # HotelStarRating
-#### Hotel Star Rating Prediction using K-Nearest Neighborhood in R  
+#### Hotel star rating prediction using K-Nearest Neighborhood in R  
   
 ### Motivation  
 Have you ever seen "stars" in front of hotels? Do you know who makes a decision on hotels ratings? 
