@@ -30,7 +30,7 @@ _Note : Sorry for not giving some example data due to the ownership. I'll just s
 - The range of estimation : **4.7** to **9.9**  
 - The range of stars : **1** to **5**  
   
-* **Arranged Data**  
+#### Arranged Data  
 ![Data](./images/data.PNG)
 &nbsp;
 ### Results  
